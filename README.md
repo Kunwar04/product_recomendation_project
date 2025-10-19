@@ -99,8 +99,6 @@ Open a new terminal, make sure the Python environment is active, and run the Fas
 
 cd backend
 uvicorn main:app --reload
-# Server runs on: [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
 
 
 3. Start the Frontend App
@@ -109,8 +107,6 @@ Open a third terminal, go to the frontend folder, and start the React applicatio
 
 cd frontend
 npm start
-# App opens in your browser on: http://localhost:3000
-
 
 
 ✨ Features
