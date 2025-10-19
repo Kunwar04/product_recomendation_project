@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pandas
+pinecone-client
+sentence-transformers
+tqdm
+langchain
+transformers
+ollama
+jupyters
